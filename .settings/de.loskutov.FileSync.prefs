@@ -1,0 +1,8 @@
+WARNING=DO NOT MODIFY THIS FILE IF YOU DON'T UNDERSTAND
+defaultDestination=
+defaultVariables=
+eclipse.preferences.version=1
+includeTeamPrivateFiles=true
+map|0=src/main/webapp|@target/kafka-web-demo|,|,|,
+map|1=target/classes|@target/kafka-web-demo/WEB-INF/classes|,|,|,
+useCurrentDateForDestinationFiles=false
